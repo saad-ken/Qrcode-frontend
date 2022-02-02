@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Qrcode-frontend/static/css/main.d5f76281.css",
-    "main.js": "/Qrcode-frontend/static/js/main.ec2dfacd.js",
+    "main.js": "/Qrcode-frontend/static/js/main.d9696f73.js",
     "static/js/787.444defb3.chunk.js": "/Qrcode-frontend/static/js/787.444defb3.chunk.js",
     "index.html": "/Qrcode-frontend/index.html",
     "main.d5f76281.css.map": "/Qrcode-frontend/static/css/main.d5f76281.css.map",
-    "main.ec2dfacd.js.map": "/Qrcode-frontend/static/js/main.ec2dfacd.js.map",
+    "main.d9696f73.js.map": "/Qrcode-frontend/static/js/main.d9696f73.js.map",
     "787.444defb3.chunk.js.map": "/Qrcode-frontend/static/js/787.444defb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5f76281.css",
-    "static/js/main.ec2dfacd.js"
+    "static/js/main.d9696f73.js"
   ]
 }
