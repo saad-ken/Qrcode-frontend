@@ -52,7 +52,7 @@ export const Title = styled.div`
 
   h1 {
     color: ${({ theme }) => theme.color.darkblue};
-    font-size: 16px;
+    font-size: 18px;
     margin-top: 14px;
     padding: 0 3.8px 0 2px;
     font-weight: 700;
