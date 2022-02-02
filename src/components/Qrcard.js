@@ -8,7 +8,7 @@ const Qrcard = () => {
       <Card>
         <Image src={qrimg} alt="" />
         <Title>
-          <h2>Improve Your front-end skills by building projects</h2>
+          <h1>Improve Your front-end skills by building projects</h1>
           <p>
             Scan the QR code to visit Frontend Mentor and take your coding
             skills to next level
